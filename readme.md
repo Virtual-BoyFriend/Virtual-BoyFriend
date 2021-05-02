@@ -1,3 +1,6 @@
+# 虚拟男友 Virtual BoyFriend
+Vtuber/Vup的生理期记录
+
 |DATE|ID|LINK|
 |:----|:----|:----|
 |20210213|诗小雅Official|https://t.bilibili.com/491237889506217039 |
