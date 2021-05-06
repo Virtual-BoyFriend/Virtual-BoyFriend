@@ -15,3 +15,5 @@ Vtuber/Vup的生理期记录
 |20210404|呜米|https://t.bilibili.com/509791546935550249 |
 |20210404|咩栗|https://t.bilibili.com/509791546935550249 |
 |20210411|还有醒着的么|https://t.bilibili.com/512428725569334690 |
+|20210501|呜米|https://t.bilibili.com/519802802165794188 |
+|20210503|陆婉莹GodRiku|https://t.bilibili.com/520595704666092743 |
