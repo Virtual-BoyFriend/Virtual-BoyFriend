@@ -12,8 +12,10 @@ Vtuber/Vup的生理期记录
 |20210306|雫るる_Official|https://t.bilibili.com/499224419847935904 |
 |20210323|瑞芙Reve|https://t.bilibili.com/505177665430583156 |
 |20210403|陆婉莹GodRiku|https://t.bilibili.com/509446137069923670 |
+|20210403|立花遥はるか|https://t.bilibili.com/509282640555146145 |
 |20210404|呜米|https://t.bilibili.com/509791546935550249 |
 |20210404|咩栗|https://t.bilibili.com/509791546935550249 |
 |20210411|还有醒着的么|https://t.bilibili.com/512428725569334690 |
+|20210429|莉莉卡official|https://t.bilibili.com/518964763852073115 |
 |20210501|呜米|https://t.bilibili.com/519802802165794188 |
 |20210503|陆婉莹GodRiku|https://t.bilibili.com/520595704666092743 |
