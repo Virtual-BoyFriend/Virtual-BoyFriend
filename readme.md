@@ -40,6 +40,7 @@
 |20210706||呜米|https://t.bilibili.com/544285722071908875 |
 |20210728||陆婉莹GodRiku|https://t.bilibili.com/552495277180528758 |
 |20210802||茶冷_Channel|https://t.bilibili.com/554098339357282903 |
+|20210805||诗小雅Official|https://t.bilibili.com/555466428178699262 |
 |20210825||陆婉莹GodRiku|https://t.bilibili.com/562729986673579827 |
 |20210826||咩栗|https://t.bilibili.com/563076075143648858 |
 |20210905||诗小雅Official|https://t.bilibili.com/566946489213185522 |
