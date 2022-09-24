@@ -67,6 +67,7 @@
 |20220710||咩栗|https://t.bilibili.com/681196686718009362 |
 |20220724||椋笙栗Kuri|https://t.bilibili.com/686356510012342275 |
 |20220731||瑞娅_Rhea|https://t.bilibili.com/688800277681143817 |
+|20220816||诗小雅Official|https://t.bilibili.com/694994445404209208 |
 |20220822||椋笙栗Kuri|https://t.bilibili.com/697107023606579239 |
 |20220823||呜米|https://t.bilibili.com/697522119313981456 |
 |20220828|\*|白神遥Haruka|https://t.bilibili.com/699408645143658536 |
