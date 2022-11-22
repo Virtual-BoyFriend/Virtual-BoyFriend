@@ -71,7 +71,7 @@
 |20220822||椋笙栗Kuri|https://t.bilibili.com/697107023606579239 |
 |20220823||呜米|https://t.bilibili.com/697522119313981456 |
 |20220828|\*|白神遥Haruka|https://t.bilibili.com/699408645143658536 |
-|20220904||咩栗|https://t.bilibili.com/701259630025637911 |
+|20220902||咩栗|https://t.bilibili.com/701259630025637911 |
 |20220921||诺娅Sukie|https://t.bilibili.com/707945352279359509 |
 |20220925||诗小雅Official|https://t.bilibili.com/709541843153453064 |
 |20221103||桃酥Momo|https://t.bilibili.com/724299183279833160 |
