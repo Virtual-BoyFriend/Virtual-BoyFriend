@@ -77,8 +77,13 @@
 |20221020||诺娅Sukie|https://t.bilibili.com/718899043583918096 |
 |20221103||桃酥Momo|https://t.bilibili.com/724299183279833160 |
 |20221114||括号笑叔|https://t.bilibili.com/728198502491881476 |
+|20221117||凉米饭Channel|https://t.bilibili.com/729508815400075336 |
 |20221118||诺娅Sukie|https://t.bilibili.com/729777160655470628 |
 |20221120||欧乌米Oumi|https://t.bilibili.com/730571416092540937 |
+|20221121||御剣莉亚-官方|https://t.bilibili.com/730901153596833809 |
+|20221125||诗小雅Official|https://t.bilibili.com/732414073002524710 |
+|20221127||小尾巴七饭|https://t.bilibili.com/733227037301407748 |
+|20221127||咩栗|https://t.bilibili.com/733164768871841856 |
 
 
 #### 记录标有星号“*”表示存疑（比如只提到肚子疼 没有明显指出具体原因或前后日期对不上）
