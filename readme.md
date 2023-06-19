@@ -94,22 +94,37 @@
 |20221209||春野萌Moe|https://t.bilibili.com/737641610842472484 |
 |20221216||诺娅Sukie|https://t.bilibili.com/740184467741605905 |
 |20221217||薄荷貓貓|https://t.bilibili.com/740643445126725671 |
+|20221223||姬野青|https://t.bilibili.com/742886607761178724 
 |20230102||明夏珊海|https://t.bilibili.com/746464998410158112 |
 |20230111||柊真华Official|https://t.bilibili.com/749796187930886180 |
 |20230111||鸶鸶鹭揚|https://t.bilibili.com/749894787496149079 |
 |20230114||星宫颜Ekira|https://t.bilibili.com/750976243093995559 |
 |20230116||梨夜Riya|https://t.bilibili.com/751774011790196740 |
 |20230119||诺娅Sukie|https://t.bilibili.com/752800178250973193 |
+|20230125||姬野青|https://t.bilibili.com/755055010322055207 |
 |20230201||鸶鸶鹭揚|https://t.bilibili.com/757626059351916552 |
 |20230202||洛莉安娜Lorianna|https://t.bilibili.com/757757627110260759 |
 |20230214|\*|诺娅Sukie|https://t.bilibili.com/762427029631008825 |
 |20230215||白银莉莉Official|https://t.bilibili.com/762881471529615364 |
 |20230217||柊真华Official|https://t.bilibili.com/763562374167789586 |
 |20230219||薄荷貓貓|https://t.bilibili.com/764115793590878217 |
+|20230310||软软riu|https://t.bilibili.com/771434727126073350 |
+|20230316||姬野青|https://t.bilibili.com/773492325699551251 |
 |20230316||咩栗|https://t.bilibili.com/773518589401497665 |
+|20230320||棉心Official|https://t.bilibili.com/775044303504277512|
 |20230330||说说Crystal|https://t.bilibili.com/778475488466173955 |
 |20230407||瓦妮Vanee|https://t.bilibili.com/781526796428378150 |
 |20230407||梨川かな|https://t.bilibili.com/781679383768203298 |
+|20230413||软软riu|https://t.bilibili.com/783980025953124388 |
+|20230415||姬野青|https://t.bilibili.com/784686410633314344 |
+|20230419||棉心Official|https://t.bilibili.com/786177086383456259 |
+|20230518||星罗月兔|https://t.bilibili.com/797078460758491169 |
+|20230523||姬野青|https://t.bilibili.com/798915267946086404 |
+|20230526||棉心Official|https://t.bilibili.com/799884366925791239 |
+|20230615||犬山奈奈Channel|https://t.bilibili.com/807481150471667730 |
+|20230616||铃音_Official|https://t.bilibili.com/807782696084308038 |
+|20230617||软软riu|https://t.bilibili.com/808141948371075109 |
+|20230617||杜松子_Gin|https://t.bilibili.com/808167829840855043|
 
 
 #### 记录标有星号“*”表示存疑（比如只提到肚子疼 没有明显指出具体原因或前后日期对不上）
