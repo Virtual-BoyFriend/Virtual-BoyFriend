@@ -128,6 +128,7 @@
 |20230617||杜松子_Gin|https://t.bilibili.com/808167829840855043 |
 |20230622||嚼着软糖想昵称|https://t.bilibili.com/809771501902364677 |
 |20230710||白神遥Haruka|https://t.bilibili.com/816685535968886800 |
+|20230715||早凉|https://t.bilibili.com/818375017189343317 |
 |20230808||玛安娜Myanna|https://t.bilibili.com/827468025592545347 |
 |20230810||徒花院紅Beni|https://t.bilibili.com/828127513522733058 |
 
