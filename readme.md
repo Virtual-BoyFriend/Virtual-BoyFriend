@@ -72,6 +72,7 @@
 |20220822||椋笙栗Kuri|https://t.bilibili.com/697107023606579239 |
 |20220823||呜米|https://t.bilibili.com/697522119313981456 |
 |20220828|\*|白神遥Haruka|https://t.bilibili.com/699408645143658536 |
+|20220829||东爱璃Lovely|https://t.bilibili.com/699844945110892627 |
 |20220902||咩栗|https://t.bilibili.com/701259630025637911 |
 |20220921||诺娅Sukie|https://t.bilibili.com/707945352279359509 |
 |20220925||鸶鸶鹭揚|https://t.bilibili.com/709516404055867408 |
@@ -106,6 +107,7 @@
 |20230202||洛莉安娜Lorianna|https://t.bilibili.com/757757627110260759 |
 |20230214|\*|诺娅Sukie|https://t.bilibili.com/762427029631008825 |
 |20230215||白银莉莉Official|https://t.bilibili.com/762881471529615364 |
+|20230217||东爱璃Lovely|https://t.bilibili.com/763331429484462100 |
 |20230217||柊真华Official|https://t.bilibili.com/763562374167789586 |
 |20230219||薄荷貓貓|https://t.bilibili.com/764115793590878217 |
 |20230310||软软riu|https://t.bilibili.com/771434727126073350 |
@@ -118,6 +120,8 @@
 |20230413||软软riu|https://t.bilibili.com/783980025953124388 |
 |20230415||姬野青|https://t.bilibili.com/784686410633314344 |
 |20230419||棉心Official|https://t.bilibili.com/786177086383456259 |
+|20230517||东爱璃Lovely|https://t.bilibili.com/796583873793228837 |
+|20230518||巴老师的小号|https://t.bilibili.com/796951815055736835 |
 |20230518||星罗月兔|https://t.bilibili.com/797078460758491169 |
 |20230523||姬野青|https://t.bilibili.com/798915267946086404 |
 |20230526||棉心Official|https://t.bilibili.com/799884366925791239 |
@@ -129,13 +133,17 @@
 |20230622||嚼着软糖想昵称|https://t.bilibili.com/809771501902364677 |
 |20230710||白神遥Haruka|https://t.bilibili.com/816685535968886800 |
 |20230715||早凉|https://t.bilibili.com/818375017189343317 |
+|20230719||杜松子_Gin|https://t.bilibili.com/819983632782327833 |
 |20230808||玛安娜Myanna|https://t.bilibili.com/827468025592545347 |
 |20230810||徒花院紅Beni|https://t.bilibili.com/828127513522733058 |
 |20230907||徒花院紅Beni|https://t.bilibili.com/838554057739075587 |
+|20230909|*|东爱璃Lovely|https://t.bilibili.com/839318003584598018 |
 |20230913||白神遥Haruka|https://t.bilibili.com/840817698792275968 |
 |20230916|\*|雪糕cheese|https://t.bilibili.com/841905588232257561 |
 |20230918||一点荧惑|https://t.bilibili.com/842498121937190945 |
+|20231024||星汐Seki|https://t.bilibili.com/856008366759084038 |
 |20231129||桃姆Q吃手手|https://t.bilibili.com/869368369332092945 |
+|20231210||小尾巴七饭|https://t.bilibili.com/873166078200512533 |
 |20231217||奈姬niki|https://t.bilibili.com/876033905164025913 |
 |20231222||呜米|https://t.bilibili.com/877892930242609240 |
 |20231227||楚天明c|https://t.bilibili.com/879755605995159569 |
@@ -143,6 +151,7 @@
 |20240105||雏雪Hinayuki|https://t.bilibili.com/882901755435679749 |
 |20240111||竹月芽Meiya|https://t.bilibili.com/885350505294856198 |
 |20240123||瑞娅_Rhea|https://t.bilibili.com/889760478937481223 |
+|20240206||佐娜Sanya|https://t.bilibili.com/894970510498070534 |
 
 
 #### 记录标有星号“*”表示存疑（比如只提到肚子疼 没有明显指出具体原因或前后日期对不上）
