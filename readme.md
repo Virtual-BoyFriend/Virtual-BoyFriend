@@ -152,6 +152,7 @@
 |20220831||奈姬niki|https://t.bilibili.com/700416605266378791 |
 |20220902||小铃久绘Official|https://t.bilibili.com/701247174637256713 |
 |20220902||咩栗|https://t.bilibili.com/701259630025637911 |
+|20220905||狩砂Karisa|https://t.bilibili.com/702412790099345478 |
 |20220913||冬雪沫沫|https://t.bilibili.com/705347408137027639 |
 |20220916||机智大灯灯|https://t.bilibili.com/706289367478435841 |
 |20220921||诺娅Sukie|https://t.bilibili.com/707945352279359509 |
@@ -231,6 +232,7 @@
 |20230415||姬野青|https://t.bilibili.com/784686410633314344 |
 |20230417||春野萌Moe|https://t.bilibili.com/785490780696346626 |
 |20230419||棉心Official|https://t.bilibili.com/786177086383456259 |
+|20230419||狩砂Karisa|https://t.bilibili.com/786188115859472441 |
 |20230501||嚼着软糖想昵称|https://t.bilibili.com/790438273757478930 |
 |20230501||小尾巴七饭|https://t.bilibili.com/790751394052177939 |
 |20230514||楚天明c|https://t.bilibili.com/795419336363737094 |
