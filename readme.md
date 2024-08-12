@@ -134,6 +134,7 @@
 |20220628||瑞娅_Rhea|https://t.bilibili.com/676502592412450823 |
 |20220629||星汐Seki|https://t.bilibili.com/677151635019923512 |
 |20220703||花花Haya|https://t.bilibili.com/678582636422103122 |
+|20220703||艾尔莎_Channel|https://t.bilibili.com/678661805553221712 |
 |20220706||小铃久绘Official|https://t.bilibili.com/679698816841023488 |
 |20220707||洛汐亚Lucia|https://t.bilibili.com/680136340914831379 |
 |20220708||机智大灯灯|https://t.bilibili.com/680437839015444512 |
@@ -191,6 +192,7 @@
 |20221208||夏川玥玥Official|https://t.bilibili.com/737299181707722759 |
 |20221209||春野萌Moe|https://t.bilibili.com/737641610842472484 |
 |20221216||诺娅Sukie|https://t.bilibili.com/740184467741605905 |
+|20221217||艾尔莎_Channel|https://t.bilibili.com/740611202812477477 |
 |20221217||薄荷貓貓|https://t.bilibili.com/740643445126725671 |
 |20221217||烛灵儿Hikari|https://t.bilibili.com/740653443804299334 |
 |20221222||星汐Seki|https://t.bilibili.com/742479599482437671 |
@@ -368,6 +370,8 @@
 |20240704||五月织姬ctsu|https://t.bilibili.com/950287997047144448 |
 |20240711||软软riu|https://t.bilibili.com/952914550162718744 |
 |20240726||栞栞Shiori|https://t.bilibili.com/958504497091444772 |
+|20240812||艾尔莎_Channel|https://t.bilibili.com/964750638007189521 |
+
 
 
 #### 记录标有星号“*”表示存疑（比如只提到肚子疼 没有明显指出具体原因或前后日期对不上）
