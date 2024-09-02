@@ -372,6 +372,7 @@
 |20240726||栞栞Shiori|https://t.bilibili.com/958504497091444772 |
 |20240812||艾尔莎_Channel|https://t.bilibili.com/964750638007189521 |
 |20240815||白神遥Haruka|https://t.bilibili.com/965871710352965649 |
+|20240826||诗小雅Official|https://t.bilibili.com/969916392722661408 |
 
 
 
